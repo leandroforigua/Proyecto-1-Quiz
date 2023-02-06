@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 149465c018170f747b10b39457f50550
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Have Heart One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 73c03965223ff7a48a748b6d3f1a9baf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

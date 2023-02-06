@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 28e6ace8d7bc82647ad1c014981ab918
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Have Heart Swash
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c59082e36f83c41498c5df642a8a59af, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
